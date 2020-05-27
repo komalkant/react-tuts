@@ -12,7 +12,7 @@
   "author": "vipin yadav",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "google-map-react": "^0.24.0",
     "jquery": "^3.2.1",
     "moment": "^2.18.1",
